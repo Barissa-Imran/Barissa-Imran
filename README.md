@@ -1,6 +1,6 @@
 <h1>About Me</h1>
 <p>👋 Hi, I’m Imran Barissa</p>
-<p> 👀 I’m interested in Full Stack Django development</p>
+<p> 👀 I’m interested in Django development</p>
 <section>
 <b>My Skills</b>
 <ul>
