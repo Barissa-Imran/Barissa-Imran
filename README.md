@@ -12,7 +12,6 @@
 </ul>
 </section>
 <p> 🌱 I’m currently learning Advanced JavaScript while also making fun projects, check out my repositories</p>
-<p><i>portfolio website coming soon</i></p>
 <p>📫 How to reach me:<br>
-<b>Email</b>: imranbarissa@gmail.com</p>
+<b>Email</b>: imranbarissa@gmail.com<br><b>Portfolio:</b><a href="https://barryimranapp.herokuapp.com"> imran.com</a></p>
 
