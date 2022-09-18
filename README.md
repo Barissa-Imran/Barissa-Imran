@@ -5,15 +5,11 @@
 
 - 🌱 I’m currently learning **React**
 
-- 🤝 I’m looking for help with [Ace](https://github.com/Barissa-Imran/Ace-The-Essay)
-
-- 👨‍💻 All of my projects are available at [barryimranapp.herokuapp.com](barryimranapp.herokuapp.com)
+- 🤝 I have built [Ace](https://github.com/Barissa-Imran/Ace-The-Essay)
 
 - 💬 Ask me about **Django**
 
 - 📫 How to reach me **imranbarissa@gmail.com**
-
-- 📄 Know about my experiences [barryimranapp.herokuapp.com](barryimranapp.herokuapp.com)
 
 - ⚡ Fun fact **Once you start coding, there is no going back.**
 
