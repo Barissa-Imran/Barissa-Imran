@@ -39,7 +39,7 @@ I Code stuff. I love to network, join new communities and add value ✨
 
 - 👨‍💻 All of my projects are available at [Coming soon](https://me.me)
 
-- 💬 Ask me about **open source, web development, and community management**
+- 💬 Ask me about **open source, Django, and community management**
 
 - 📫 Reach me out at **imranbarissa@gmail.com**
 
@@ -72,7 +72,8 @@ I Code stuff. I love to network, join new communities and add value ✨
 ## :fire: My Stats :
 
 <p>
-<img width="50%" align="left" src="https://github-readme-stats.vercel.app/api?username=Barissa-Imran&theme=blue&title_color=A020F0">&nbsp;
+<img align="right" width="45%" src="https://user-images.githubusercontent.com/74467681/197325474-afaa4845-348e-4f8e-a1dd-d9caaca58cd7.jpg" />
+<img width="50%" align="left" src="https://github-readme-stats.vercel.app/api?username=Barissa-Imran&theme=blue&title_color=A020F0"/>&nbsp;
 <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=barissa-imran&show_icons=true&locale=en&layout=compact" alt="barissa-imran" />&nbsp;
 <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=barissa-imran&" alt="barissa-imran" />&nbsp;
 </p>
