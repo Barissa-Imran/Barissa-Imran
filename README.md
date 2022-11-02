@@ -25,7 +25,7 @@
 
 <p align="center">
   
-I'm a developer from Kenya leveraging python for backend and Javascript for frontend. I love to network, join new communities and add value ✨
+I'm a developer from Kenya leveraging python for backend and Javascript for frontend.<br> I love to network, join new communities and add value ✨
 </p>
 
 <details>
