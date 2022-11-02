@@ -25,7 +25,7 @@
 
 <p align="center">
   
-I Code stuff. I love to network, join new communities and add value ✨
+I'm a developer from Kenya leveraging python for backend and Javascript for frontend. I love to network, join new communities and add value ✨
 </p>
 
 <details>
@@ -33,7 +33,7 @@ I Code stuff. I love to network, join new communities and add value ✨
 
 - 🔭 I’m currently on a journey to build **great** things
 
-- 🌱 I’m currently learning **everything** 🤓
+- 🌱 I’m currently learning C rpogramming language 🤓
 
 - 🤝 I’m looking for help with **finding projects to contribute to!**
 
