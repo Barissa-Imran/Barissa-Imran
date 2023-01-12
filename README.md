@@ -73,7 +73,7 @@ I'm a developer from Kenya leveraging python for backend and Javascript for fron
 
 
 <a href="https://github.com/Barissa-Imran/Barissa-Imran"><img align="right" width="38%" src="https://user-images.githubusercontent.com/74467681/197325474-afaa4845-348e-4f8e-a1dd-d9caaca58cd7.jpg" /> </a>
-<a href="https://github.com/Barissa-Imran/Barissa-Imran"><img width="50%" align="left" src="https://github-readme-stats.vercel.app/api?username=Barissa-Imran&theme=blue&title_color=A020F0"/></a>
-<a href="https://github.com/Barissa-Imran/Barissa-Imran"><img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=barissa-imran&show_icons=true&locale=en&layout=compact&title_color=A020F0" alt="barissa-imran" /></a>
+<a href="https://github.com/Barissa-Imran/Barissa-Imran"><img width="50%" align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Barissa-Imran&theme=blue&title_color=A020F0"/></a>
+<a href="https://github.com/Barissa-Imran/Barissa-Imran"><img width="50%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=barissa-imran&show_icons=true&locale=en&layout=compact&title_color=A020F0" alt="barissa-imran" /></a>
 <a href="https://github.com/Barissa-Imran/Barissa-Imran"><img width="50%" src="https://github-readme-streak-stats.herokuapp.com?user=Barissa-Imran&ring=A020F0&fire=A020F0&currStreakLabel=A020F0" /></a>
 
