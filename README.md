@@ -22,7 +22,7 @@
 
 ### Live Projects
 <a href="https://www.pokomodictionary.com/">
-    <img src="https://img.shields.io/badge/Pokomo-blueviolet?style=for-the-badge&logo=linode&logoColor=green" alt="Stackoverflow Badge"/></a>
+    <img src="https://img.shields.io/badge/Pokomo-blueviolet?style=for-the-badge&logo=django&logoColor=green" alt="Stackoverflow Badge"/></a>
 <a href="https://imrangpt3.netlify.app/">
     <img src="https://img.shields.io/badge/React GPT3-blue?style=for-the-badge&logo=react&logoColor=white" alt="Stackoverflow Badge"/></a>
 
