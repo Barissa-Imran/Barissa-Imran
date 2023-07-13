@@ -21,11 +21,11 @@
 </div>
 
 ### Live Projects
-<a href="https://www.pokomodictionary.com/">
+<a target="_blank" href="https://pokomo.up.railway.app/">
     <img src="https://img.shields.io/badge/Pokomo-blueviolet?style=for-the-badge&logo=django&logoColor=green" alt="Stackoverflow Badge"/></a>
-<a href="https://imrangpt3.netlify.app/">
+<a target="_blank" href="https://imrangpt3.netlify.app/">
     <img src="https://img.shields.io/badge/React GPT3-blue?style=for-the-badge&logo=react&logoColor=white" alt="Stackoverflow Badge"/></a>
-<a href="https://imrangericht.netlify.app/">
+<a target="_blank" href="https://imrangericht.netlify.app/">
     <img src="https://img.shields.io/badge/Gericht-gold?style=for-the-badge&logo=react&logoColor=blue" alt="Stackoverflow Badge"/></a>
     
 <p align="center">
