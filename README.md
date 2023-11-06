@@ -7,7 +7,7 @@
   <a href="https://stackoverflow.com/users/15383032/imran-ke">
     <img src="https://img.shields.io/badge/Stackoverflow-red?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stackoverflow Badge"/>
   </a>
-  <a href="https://twitter.com/BImran_Dev">
+  <a href="https://twitter.com/Barissa_">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
