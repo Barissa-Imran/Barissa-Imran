@@ -23,8 +23,9 @@
 ### Live Projects
 <div>
   
-<a target="_blank" href="https://pokomo.vercel.com/">
-    <img src="https://img.shields.io/badge/Portfolio-white?style=for-the-badge&logo=vercel&logoColor=black" alt="Stackoverflow Badge"/></a>
+<a target="_blank" href="https://barryimran.netlify.com/">
+    <img src="https://img.shields.io/badge/Portfolio-white?style=for-the-badge&logo=netlify&logoColor=black" alt="Stackoverflow Badge"/>
+</a>
 </div>
     
 <a target="_blank" href="https://pokomo.vercel.com/">
