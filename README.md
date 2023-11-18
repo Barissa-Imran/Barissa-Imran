@@ -49,7 +49,7 @@ I'm a developer from Kenya leveraging python for backend and Javascript for fron
 
 - 🔭 I’m currently on a journey to build **great** things
 
-- 🌱 I’m currently learning the C programming language 🤓
+- 🌱 I’m currently learning Advanced frontend development 🤓
 
 - 🤝 I’m looking for help with **finding projects to contribute to!**
 
