@@ -46,12 +46,10 @@ I'm a developer from Kenya leveraging python for backend and Javascript for fron
 
 <details>
   <summary>🧑 More about me</summary>
-
-- 🔭 I’m currently on a journey to build **great** things
-
-- 🌱 I’m currently learning Advanced frontend development 🤓
-
-- 🤝 I’m looking for help with **finding projects to contribute to!**
+Check out my open-source contibutions:
+1. ZULIP
+2. Django-social-share
+3. Electricity maps
 
 - 👨‍💻 All of my projects are available at [Coming soon](https://me.me)
 
