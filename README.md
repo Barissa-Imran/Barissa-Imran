@@ -36,8 +36,6 @@
     <img src="https://img.shields.io/badge/Gericht-gold?style=for-the-badge&logo=react&logoColor=blue" alt="Stackoverflow Badge"/></a>
 <a target="_blank" href="https://aheri.org/">
     <img src="https://img.shields.io/badge/Aheri-darkgreen?style=for-the-badge&logo=wordpress&logoColor=white" alt="Stackoverflow Badge"/></a>
-<a target="_blank" href="https://babyco.vercel.app/">
-    <img src="https://img.shields.io/badge/BabyCo-pink?style=for-the-badge&logo=django&logoColor=darkgreen" alt="Stackoverflow Badge"/></a>
     
 <p align="center">
   
