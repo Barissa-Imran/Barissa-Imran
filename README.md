@@ -72,9 +72,9 @@ Proficient in:
 
 ## :fire: My Stats :
 
-<a href="https://github.com/Barissa-Imran/Barissa-Imran"><img align="right" src="https://github-readme-streak-stats.herokuapp.com?user=Barissa-Imran&ring=A020F0&fire=A020F0&currStreakLabel=A020F0" /></a>
+<a href="https://github.com/Barissa-Imran/Barissa-Imran"><img width="45%" align="right" src="https://github-readme-streak-stats.herokuapp.com?user=Barissa-Imran&ring=A020F0&fire=A020F0&currStreakLabel=A020F0" /></a>
 
-<a href="https://github.com/Barissa-Imran/Barissa-Imran"><img src="https://github-readme-stats.vercel.app/api?username=Barissa-Imran&theme=blue&title_color=A020F0"/></a>
+<a href="https://github.com/Barissa-Imran/Barissa-Imran"><img width="45%" src="https://github-readme-stats.vercel.app/api?username=Barissa-Imran&theme=blue&title_color=A020F0"/></a>
 
 
 <div align="center">
