@@ -37,27 +37,16 @@
 <a target="_blank" href="https://aheri.org/">
     <img src="https://img.shields.io/badge/Aheri-darkgreen?style=for-the-badge&logo=wordpress&logoColor=white" alt="Stackoverflow Badge"/></a>
     
-<p align="center">
-  
-I'm a developer from Kenya leveraging python for backend and Javascript for frontend.<br> I love to network, join new communities and add value ✨
-</p>
 
-<details>
-  <summary>🧑 More about me</summary>
-Check out my open-source contibutions:
-1. ZULIP
-2. Django-social-share
-3. Electricity maps
-
-- 👨‍💻 All of my projects are available at [Coming soon](https://me.me)
-
-- 💬 Ask me about **open source, Django, and community management**
-
-- 📫 Reach me out at **imranbarissa@gmail.com**
-
-</details>
-  
-
+```md
+Full-Stack Developer with a passion for building dynamic web applications.
+Proficient in:
+- Front-End: React, JQuery, Jinja
+- Back-End: Python (Django, Flask), PHP, NodeJS
+- Databases: MySQL, PostgreSQL, Mongo
+- Version Control: Git
+```
+> Quick learner
 
 ## :hammer_and_wrench: Languages and Tools :
 
@@ -83,10 +72,16 @@ Check out my open-source contibutions:
 
 ## :fire: My Stats :
 
+<a href="https://github.com/Barissa-Imran/Barissa-Imran"><img align="right" src="https://github-readme-streak-stats.herokuapp.com?user=Barissa-Imran&ring=A020F0&fire=A020F0&currStreakLabel=A020F0" /></a>
 
-<a href="https://github.com/Barissa-Imran/Barissa-Imran"><img align="right" width="38%" src="https://user-images.githubusercontent.com/74467681/197325474-afaa4845-348e-4f8e-a1dd-d9caaca58cd7.jpg" /> </a>
-<a href="https://github.com/Barissa-Imran/Barissa-Imran"><img width="50%" align="left" src="https://github-readme-stats.vercel.app/api?username=Barissa-Imran&theme=blue&title_color=A020F0"/></a>
-<a href="https://github.com/Barissa-Imran/Barissa-Imran"><img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=barissa-imran&show_icons=true&locale=en&layout=compact&title_color=A020F0" alt="barissa-imran" /></a>
-<a href="https://github.com/Barissa-Imran/Barissa-Imran"><img width="50%" src="https://github-readme-streak-stats.herokuapp.com?user=Barissa-Imran&ring=A020F0&fire=A020F0&currStreakLabel=A020F0" /></a>
+<a href="https://github.com/Barissa-Imran/Barissa-Imran"><img src="https://github-readme-stats.vercel.app/api?username=Barissa-Imran&theme=blue&title_color=A020F0"/></a>
+
+
+<div align="center">
+  <a href="https://github.com/Barissa-Imran"><img
+  src="https://github-readme-stats.vercel.app/api/wakatime?username=Barissa&theme=radical&custom_title=My%20Wakatime%20Stats&layout=compact"/></a>
+</div>
+
+---
 
 <p align="center">© 2023 - Imran.</p>
