@@ -7,7 +7,7 @@
   <a href="https://stackoverflow.com/users/15383032/imran-ke">
     <img src="https://img.shields.io/badge/Stackoverflow-red?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stackoverflow Badge"/>
   </a>
-  <a href="https://twitter.com/Barissa_">
+  <a href="https://twitter.com/mee_you18">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
@@ -36,6 +36,8 @@
     <img src="https://img.shields.io/badge/Gericht-gold?style=for-the-badge&logo=react&logoColor=blue" alt="Stackoverflow Badge"/></a>
 <a target="_blank" href="https://aheri.org/">
     <img src="https://img.shields.io/badge/Aheri-darkgreen?style=for-the-badge&logo=wordpress&logoColor=white" alt="Stackoverflow Badge"/></a>
+<a target="_blank" href="https://uhaiwater.org">
+    <img src="https://img.shields.io/badge/Uhai Water Research-aqua?style=for-the-badge&logo=react&logoColor=grey" alt="Stackoverflow Badge"/></a>
     
 
 ```md
@@ -68,6 +70,7 @@ Proficient in:
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" title="mysql" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" title="postgresql" width="40" height="40"/>&nbsp;
   <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" title="sqlite" width="40" height="40"/>&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/nginx/nginx-icon.svg" alt="nginx" title="nginx" width="40" height="40"/>&nbsp;
 </div>
 
 ## :fire: My Stats :
